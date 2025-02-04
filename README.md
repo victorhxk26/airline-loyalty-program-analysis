@@ -1,2 +1,2 @@
-# airline-loyalty-program-analysis
-Analyzing the impact of airline loyalty campaign on membership &amp; flight bookings using SAS
+# Data Analysis - Airline Loyalty Program
+Undoubtedly, the aviation or airline industry often utilises the information derived from large volumes of data gathered from different sources to better serve their stakeholders including passengers and business partners, prompting the need for data warehousing. Therefore, an initial data exploration on customer flight activity and loyalty history dataset will be detailed together with the corresponding metadata, as well as providing evaluation criteria for the airline data warehouse.
